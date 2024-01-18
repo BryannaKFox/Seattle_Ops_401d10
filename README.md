@@ -15,3 +15,5 @@ This Repository will contain my Reading notes throughout Ops 401.
 [Read 05](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-05)
 
 [Read 06](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-06)
+
+[Read 07](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-07)
