@@ -25,3 +25,11 @@ This Repository will contain my Reading notes throughout Ops 401.
 [Read 13](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-13#reconstructing-a-cloud-attack-with-splunk)
 
 [Read 14](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-14)
+
+[Read 15](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-15)
+
+[Read 16](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-16)
+
+[Read 17](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-17)
+
+[Read 18](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-18)
