@@ -47,3 +47,5 @@ This Repository will contain my Reading notes throughout Ops 401.
 [Read 33](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-33)
 
 [Read 34](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-34#forensics-investigation-with-autopsy)
+
+[Read 36](https://github.com/BryannaKFox/Seattle_Ops_401d10/wiki/Read-36) 
